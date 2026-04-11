@@ -11,8 +11,9 @@ files meaning that you can listen to what comes out.
 I added a very simple RC lowpass filter at the output to get rid of some of the harmonics which otherwise make youe ears bleed.
 
 I was a teenage boy at the time of the accident, we'd just started to study nuclear radiation in our physics class. 
-We did observe a small increase in background radiation in the UK at the time. It made it seem quite more real and not just something
+We did observe a small increase in background radiation in the UK at the time. It made it seem quite a lot more real and not just something
 on the news. Almost 40 years later I'm still fascinated by the whole thing - the science, engineeering and the lived human experiences.
-I'd suggest subscribing to the Chornobyl Family YouTuve channel if, like me, you're also interested.
+
+I'd suggest subscribing to the Chornobyl Family YouTube channel if, like me, you're also interested.
 
 R.
